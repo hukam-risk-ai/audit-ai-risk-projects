@@ -22,4 +22,4 @@ This repository contains small but impactful hands-on projects in the intersecti
 
 ## About Me
 
-I’m a CISA-certified audit professional with 9+ years of experience in SOX, Internal Audit, ITGC/ITAC and currently expanding into AI risk governance and data assurance.
+I’m a CA and CISA-certified audit professional with 9+ years of experience in SOX, Internal Audit, ITGC/ITAC and currently expanding into AI risk governance and data assurance.
